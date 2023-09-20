@@ -1,10 +1,10 @@
 body {
-  font-family: "Times New Roman", Times, serif, sans-serif;
-  background-color: #f0f0f0;
+  font-family: Helvetica Neue, sans-serif;
+  background-color: rgba(0, 0, 0, 0.7803921569);
 }
 
 h1 {
-  color: #106007;
+  color: rgba(255, 255, 255, 0.2862745098);
   font-size: 24px;
 }
 
