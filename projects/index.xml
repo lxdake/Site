@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>http://lxdake.me/</link>
-    <description>Recent content on </description>
+    <title>Posts on </title>
+    <link>http://lxdake.me/projects/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://lxdake.me/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Alex Dake</title>
-      <link>http://lxdake.me/about/</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://lxdake.me/about/</guid>
-      <description>I am a Manufacturing Engineering student at the University of British Columbia. I have experience working in Mechanical Design, NPI and Manufacturing Engineering Development roles. I am also learning basic web development as a side hobby. In my free time I also like messing around with electronics (Raspberry Pi, Arduino and other hardware) and enjoying the outdoors of British Columbia.
-Some skills that I have include: Mechanical Engineering, FEA methods, 3D printing strategies, programming (python, go, matlab, C#), SOLIDWORKS and other CAD/CAM suites and much more.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://lxdake.me/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>http://lxdake.me/projects/markdown-syntax/</link>

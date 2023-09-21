@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>http://gohugo.io/tags/</link>
+    <link>http://lxdake.me/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://gohugo.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://lxdake.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>http://gohugo.io/tags/css/</link>
+      <link>http://lxdake.me/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://gohugo.io/tags/css/</guid>
+      <guid>http://lxdake.me/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://gohugo.io/tags/html/</link>
+      <link>http://lxdake.me/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://gohugo.io/tags/html/</guid>
+      <guid>http://lxdake.me/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://gohugo.io/tags/markdown/</link>
+      <link>http://lxdake.me/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://gohugo.io/tags/markdown/</guid>
+      <guid>http://lxdake.me/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>http://gohugo.io/tags/privacy/</link>
+      <link>http://lxdake.me/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://gohugo.io/tags/privacy/</guid>
+      <guid>http://lxdake.me/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://gohugo.io/tags/shortcodes/</link>
+      <link>http://lxdake.me/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://gohugo.io/tags/shortcodes/</guid>
+      <guid>http://lxdake.me/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>http://gohugo.io/tags/text/</link>
+      <link>http://lxdake.me/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://gohugo.io/tags/text/</guid>
+      <guid>http://lxdake.me/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>http://gohugo.io/tags/emoji/</link>
+      <link>http://lxdake.me/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://gohugo.io/tags/emoji/</guid>
+      <guid>http://lxdake.me/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>http://gohugo.io/tags/index/</link>
+      <link>http://lxdake.me/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gohugo.io/tags/index/</guid>
+      <guid>http://lxdake.me/tags/index/</guid>
       <description></description>
     </item>
     

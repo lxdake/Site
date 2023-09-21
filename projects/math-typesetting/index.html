@@ -3,7 +3,7 @@
 
 <head>
     <title>
-About Alex Dake | Alex Dake
+Math Typesetting | Alex Dake
 </title>
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -12,7 +12,7 @@ About Alex Dake | Alex Dake
 <meta name="generator" content="Hugo 0.92.0" />
 
 
-<link rel="canonical" href="http://lxdake.me/about/" >
+<link rel="canonical" href="http://lxdake.me/projects/math-typesetting/" >
 <link href="/sass/main.min.7c57d7795628d7c025cc5db105e8a8d02017cfd7b77929b93c867586a4b49d65.css" rel="stylesheet">
 
 
@@ -54,7 +54,7 @@ About Alex Dake | Alex Dake
             <main class="main">
                 
 <div class="postWrapper">
-    <h1>About Alex Dake</h1>
+    <h1>Math Typesetting</h1>
     
     <section class="postMetadata">
         <dl>
@@ -64,7 +64,7 @@ About Alex Dake | Alex Dake
             
                 <dt>published</dt>
                 
-                <dd><time datetime="2023-09-20">September 20, 2023</time></dd>
+                <dd><time datetime="2019-03-08">March 8, 2019</time></dd>
             
            
             
@@ -72,11 +72,28 @@ About Alex Dake | Alex Dake
     </section>
     
     <div>
-        <p>I am a Manufacturing Engineering student at the University of British Columbia. I have experience working in Mechanical Design, NPI and Manufacturing Engineering Development roles. I am also learning basic web development as a side hobby. In my free time I also like messing around with electronics (Raspberry Pi, Arduino and other hardware) and enjoying the outdoors of British Columbia.</p>
-<p>Some skills that I have include: Mechanical Engineering, FEA methods, 3D printing strategies, programming (python, go, matlab, C#), SOLIDWORKS and other CAD/CAM suites and much more. Check out my resume for a full breakdown.</p>
-<p>Other personal projects I am working on include finding intersections between rock climbing and additive manufacturing for high-performance personalized equipment, and a capstone project working in the polymer composites space.</p>
-<p>Please enjoy your time on my site!</p>
+        <p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:</li>
+</ul>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#f92672">{{</span> <span style="color:#66d9ef">if</span> or .Params.math .Site.Params.math <span style="color:#f92672">}}</span>
+<span style="color:#f92672">{{</span> partial <span style="color:#e6db74">&#34;math.html&#34;</span> . <span style="color:#f92672">}}</span>
+<span style="color:#f92672">{{</span> end <span style="color:#f92672">}}</span>
+</code></pre></div><ul>
+<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
+<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files</li>
+</ul>
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a></p>
 
+<h3 id="examples">Examples</h3>
+
+<p>Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$</p>
     </div>
 </div>
 
